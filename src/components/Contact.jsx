@@ -10,6 +10,7 @@ const Contact = () => {
   };
 
   return (
+    //adding comments
     <div className='bg-gray-800 h-screen flex justify-center items-center'>
     <div className="container mx-auto lg:mx-14  mt-8">
       <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
@@ -43,7 +44,7 @@ const Contact = () => {
             <p className='text-gray-200'>+917534026714</p>
           </div>
           <div>
-            <h3 className="font-semibold">Location</h3>
+            <h3 className="font-semibold"> Location </h3>
             <p className='text-gray-200'>Agra, Uttar Pradesh
 </p>
           </div>
